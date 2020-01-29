@@ -5,7 +5,7 @@
     "Petr Sloup <petr.sloup@klokantech.com>"
   ],
   "dependencies": {
-    "@mapbox/glyph-pbf-composite": "0.0.3",
-    "fontnik": "0.5.1"
+    "@mapbox/glyph-pbf-composite": "^0.0.3",
+    "fontnik": "^0.5.3"
   }
 }
