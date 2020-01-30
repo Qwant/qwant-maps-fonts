@@ -6,7 +6,7 @@ var fontnik = require('fontnik'),
 
 var DEBUG = false;
 
-var outputDir = '_output';
+var outputDir = 'dist';
 
 var sizeSumTotal = 0;
 
