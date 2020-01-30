@@ -7,7 +7,8 @@
     "Qwant"
   ],
   "scripts": {
-    "build": "node ./generate"
+    "build": "node ./generate",
+    "prepare": "npm run build"
   },
   "devDependencies": {
     "@mapbox/glyph-pbf-composite": "^0.0.3",
