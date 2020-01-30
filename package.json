@@ -1,8 +1,9 @@
 {
-  "name": "klokantech-noto-sans",
-  "version": "0.0.0",
+  "name": "qwant-maps-fonts",
+  "version": "1.0.0",
   "authors": [
-    "Petr Sloup <petr.sloup@klokantech.com>"
+    "Petr Sloup <petr.sloup@klokantech.com>",
+    "Qwant"
   ],
   "scripts": {
     "build": "node ./generate"
