@@ -1,7 +1,7 @@
 {
   "name": "qwant-maps-fonts",
   "version": "1.0.0",
-  "repository": "github:QwantResearch/fonts",
+  "repository": "github:Qwant/qwant-maps-fonts",
   "authors": [
     "Petr Sloup <petr.sloup@klokantech.com>",
     "Qwant"
